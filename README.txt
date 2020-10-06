@@ -9,4 +9,5 @@ Requirements:
     python 3.7
     flask
     flask-wtf
-
+    flask-migrate
+    flask-sqlalchemy
