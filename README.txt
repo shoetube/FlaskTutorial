@@ -11,3 +11,5 @@ Requirements:
     flask-wtf
     flask-migrate
     flask-sqlalchemy
+    flask-login
+    email-validator
